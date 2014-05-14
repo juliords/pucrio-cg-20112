@@ -1,0 +1,5 @@
+*.o
+*.hex
+.depend.mk
+*.swp
+*~
